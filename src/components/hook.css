@@ -1,0 +1,17 @@
+.hook{
+    margin: 20px;
+    padding: 20px;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.add, .less {
+    color: blue;
+    padding: 10px;
+}
+
+.text {
+    color: coral;
+}
